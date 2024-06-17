@@ -12,11 +12,15 @@ AI Trading Bot By [GAC DEV](https://geniusandcourage.com)
 
 ## Starting Balance
 
-![DYDX AI Trading Cloud Backend](https://hlwsdtech.com:8081/images/bot-cloud-1.jpeg)
+![DYDX AI Trading Cloud Back-End](https://hlwsdtech.com:8081/images/bot-cloud-1.jpeg)
 
 ## Balance After 11 minutes
 
-![DYDX AI Trading Cloud Backend](https://hlwsdtech.com:8081/images/bot-cloud-1.jpeg)
+![DYDX AI Trading Cloud Back-End](https://hlwsdtech.com:8081/images/bot-cloud-2.jpeg)
+
+## AI Trading Bot Architecture
+
+![AI Trading Bot Architecture](https://hlwsdtech.com:8081/images/plan.jpg)
 
 ## Source code
 
