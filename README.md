@@ -18,6 +18,10 @@ AI Trading Bot By [GAC DEV](https://geniusandcourage.com)
 
 ![DYDX AI Trading Cloud Back-End](https://hlwsdtech.com:8081/images/bot-cloud-2.jpeg)
 
+## Telegram Notifications
+
+![AI Trading Bot Telegram Notifications](https://hlwsdtech.com:8081/images/telegram-notifications.jpeg)
+
 ## AI Trading Bot Architecture
 
 ![AI Trading Bot Architecture](https://hlwsdtech.com:8081/images/plan.jpg)
